@@ -43,6 +43,7 @@ Thank you and have a good day!!
 
 * Trước khi viết bài, bạn cần bổ sung hashtag theo bảng [ở phía dưới](.#danh-sch-hashtag-trn-nhm), tuỳ vào nhu cầu và mục đích đăng mà bạn cần phải lựa chọn hashtag phù hợp nhằm giúp phân loại bài viết và cho mục đích tìm kiếm sau này.
 * Bài viết/Bình luận phải rõ ràng, khuyến khích sử dụng Tiếng Việt có dấu, không được văng tục, chửi thề, gây chiến, sử dụng teencode/ngôn ngữ gây khó hiểu, v.v..
+* Tôn trọng thành viên mình đang tương tác, vì đây là cộng đồng không giới hạn độ tuổi, cho nên sẽ có rất nhiều tầng lớp khác nhau tham gia, vì vậy rất dễ xảy ra hiểu nhầm dẫn đến đả kích cá nhân, v.v..
 * Để tránh trường hợp trùng lặp nội dung, khuyến khích bạn nên sử dụng chức năng tìm kiếm trên nhóm để tìm lại bài viết cũ/sử dụng công cụ tìm kiếm [Google](https://www.google.com/) trước khi đăng bài viết mới.
 
 ### B - Nội quy đăng bài
