@@ -4,11 +4,11 @@ Chào mừng bạn đã đến trang thông tin của nhóm [Hội quán tin h�
 
 ## Thông tin nhóm
 
-:small_orange_diamond: Nhóm được thành lập vào ngày 08/05/2017\
-:small_orange_diamond: Mục đích của nhóm là chia sẻ, giúp đỡ cho tất cả các thành viên, từ người không có/chưa có nhiều kiến thức tin học cho đến các "bà mẹ bỉm sữa, ông bố của gia đình" cần học hỏi và sử dụng tin học. (không tức nghĩa là các ông bố/bà mẹ muốn share gì lên group cũng đc à :simple_smile:, cũng phải tuân thủ nội quy đàng hoàng à nha!)\
+:small_orange_diamond: Nhóm được thành lập vào ngày 08/05/2017  
+:small_orange_diamond: Mục đích của nhóm là chia sẻ, giúp đỡ cho tất cả các thành viên, từ người không có/chưa có nhiều kiến thức tin học cho đến các "bà mẹ bỉm sữa, ông bố của gia đình" cần học hỏi và sử dụng tin học. (không tức nghĩa là các ông bố/bà mẹ muốn share gì lên group cũng đc à :smirk:, cũng phải tuân thủ nội quy đàng hoàng à nha!)  
 :small_orange_diamond: Nếu có thắc mắc cần được giải đáp, vui lòng liên hệ các thành viên trong ban quản trị:
 
-:zap: Admin\:\
+:zap: Admin\:  
 [Huỳnh Phạm Duy Trường](https://www.facebook.com/100003406471977)
 
 :zap: Moderators\:
