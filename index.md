@@ -16,16 +16,16 @@ Chào mừng bạn đã đến trang thông tin của nhóm [Hội quán tin h�
 
 :zap: Moderators\:
 
-* Về mảng phần cứng\:
+* Đại diện mảng phần cứng\:
   * [Dương Hải Nam](https://www.facebook.com/duonghai.nam.1980)
   * [Kiệt Trần](https://www.facebook.com/kiettran.a7)
   * [Vũ Long](https://www.facebook.com/socbay66)
-* Về mảng phần mềm\:
+* Đại diện mảng phần mềm\:
   * [Ashton Lee](https://www.facebook.com/AshtonLee.IT)
   * [Phan Quốc Văn](https://www.facebook.com/phanquocvan)
   * [Đông Phương](https://www.facebook.com/dongphuong2102)
   * [Châu Ngọc Hiệp](https://www.facebook.com/hiepchau96)
-* Về mảng kích hoạt Windows/Office\:
+* Đại diện mảng kích hoạt Windows/Office\:
   * [Tuấn Thành](https://www.facebook.com/tuanthanh1502)
   * [Anh Tuan Le](https://www.facebook.com/anhtuanle.ktc)
 
