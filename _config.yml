@@ -1,5 +1,3 @@
 theme: jekyll-theme-leap-day
-title: Hội quán tin học
-description: Những điều cần biết về Hội quán Tin học
 plugins:
   - jemoji
