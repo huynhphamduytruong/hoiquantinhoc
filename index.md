@@ -4,7 +4,7 @@ Chào mừng bạn đã đến trang thông tin của group [Hội quán tin h�
 
 ## Thông tin group
 
-Group được lập ra với mục đích chia sẻ, giúp đỡ cho tất cả các thành viên, từ người không có/chưa có nhiều kiến thức tin học cho đến các "bà mẹ bỉm sữa, ông bố của gia đình" cần học hỏi và sử dụng tin học. (không tức nghĩa là các ông bố/bà mẹ muốn share gì lên group cũng đc à :), cũng phải tuân thủ nội quy đàng hoàng à nha!)
+Group được lập ra với mục đích chia sẻ, giúp đỡ cho tất cả các thành viên, từ người không có/chưa có nhiều kiến thức tin học cho đến các "bà mẹ bỉm sữa, ông bố của gia đình" cần học hỏi và sử dụng tin học. (không tức nghĩa là các ông bố/bà mẹ muốn share gì lên group cũng đc à :smirk:, cũng phải tuân thủ nội quy đàng hoàng à nha!)
 
 ## Nội quy
 
