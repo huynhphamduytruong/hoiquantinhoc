@@ -65,15 +65,15 @@ Nếu các bạn thấy bài viết hoặc bình luận vi phạm nội quy, xin
 
 **Lưu ý:**
 
-* Các hashtag phải bắt đầu bằng `#hqtn_` nhằm tránh ảnh hưởng bởi các hashtag khác.
+* Các hashtag phải bắt đầu bằng `#hqth_` nhằm tránh ảnh hưởng bởi các hashtag khác.
 * Bạn có thể sử dụng nhiều hashtag trên 1 bài viết, miễn là liên quan đến bài viết.
 
 Hashtag | Ý nghĩa
 ------- | -------
- **#hqtn_hoidap** | Hỏi đáp, thắc mắc chung.
- **#hqtn_kichhoat** | Hỗ trợ kích hoạt.
- **#hqtn_thaoluan** | Thảo luận về 1 chủ đề nào đó.
- **#hqtn_chiase** | Chia sẻ tài nguyên (các khoá học, phần mềm, ...).
- **#hqtn_giaitri** | Những nội dung mang tính chất giải trí.
- **#hqtn_gopy** | Đóng góp ý kiến cá nhân cho ban quản trị.
- **#hqtn_baocao** | Báo cáo sai phạm.
+ **#hqth_hoidap** | Hỏi đáp, thắc mắc chung.
+ **#hqth_kichhoat** | Hỗ trợ kích hoạt.
+ **#hqth_thaoluan** | Thảo luận về 1 chủ đề nào đó.
+ **#hqth_chiase** | Chia sẻ tài nguyên (các khoá học, phần mềm, ...).
+ **#hqth_giaitri** | Những nội dung mang tính chất giải trí.
+ **#hqth_gopy** | Đóng góp ý kiến cá nhân cho ban quản trị.
+ **#hqth_baocao** | Báo cáo sai phạm.
