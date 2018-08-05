@@ -10,12 +10,12 @@ Group được lập ra với mục đích chia sẻ, giúp đỡ cho tất cả
 
 Đây là 1 số nội quy được đề ra bởi toàn bộ các thành viên trong ban quản trị. Mong các thành viên **chú ý đọc kỹ** và làm theo.
 
-### A - Nội quy group
+**A - Nội quy group**
 
 1. A
 2. B
 
-### B - Nội quy đăng bài
+**B - Nội quy đăng bài**
 
 1. A
 2. B
