@@ -1,4 +1,4 @@
-# Hội quán tin học | \#hqth
+# Hội quán tin học \| \#hqth
 
 Chào mừng bạn đã đến trang thông tin của group [Hội quán tin học](https://fb.com/groups/hoiquantinhoc/)
 
