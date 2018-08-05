@@ -1,6 +1,6 @@
 # [Hội quán tin học](https://fb.com/groups/hoiquantinhoc/)
 
-Chào mừng bạn đã đến trang thông tin của group [Hội quán tin học](https://fb.com/groups/hoiquantinhoc/) :wave:
+Chào mừng bạn đã đến trang thông tin của group [Hội quán tin học](https://fb.com/groups/hoiquantinhoc/)
 
 ## Thông tin group
 
