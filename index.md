@@ -30,11 +30,11 @@ Chào mừng bạn đã đến trang thông tin của nhóm [Hội quán tin h�
   * [Anh Tuan Le](https://www.facebook.com/anhtuanle.ktc)
 
 > **Đại diện là gì?**
->\
+>
 > Đại diện ở đây mang ý nghĩa là mod đó "mạnh" về mảng đó, và họ được phân để quản lý những bài viết thuộc về chuyên mục mà họ được gán. Mục đích là để có thể dễ dàng hỗ trợ cho các thành viên giải quyết nhanh và đúng vấn đề mà họ đang gặp phải.
 >
 > **Nếu không nằm trong danh sách trên thì có được đi hỗ trợ những thành viên khác không?**
->\
+>
 > Có, dĩ nhiên là vẫn được như bình thường rồi. Đừng có nhầm lẫn là không nằm ở trên thì không được làm gì nhé :wink:.
 
 Thank you and have a good day!!
@@ -43,7 +43,7 @@ Thank you and have a good day!!
 
 ## Nội quy
 
-Đây là 1 số nội quy được đề ra bởi toàn bộ các thành viên trong ban quản trị. Mong các thành viên **chú ý đọc kỹ** và làm theo.
+Đây là 1 số nội quy được đề ra bởi toàn bộ các thành viên trong ban quản trị. Mặc dù nhóm với tiêu chí thoải mái, nhưng thiết nghĩ cũng nên có nội quy để có thể ngày càng cải thiện nhóm hơn, và đồng thời cũng tránh tiêu cực trong nhóm. Cho nên, mình mong các thành viên **chú ý đọc kỹ** và làm theo nhé :wink:.
 
 **Lưu ý:** Nội quy sẽ được cập nhật theo thời gian để phù hợp với tiêu chí của nhóm.
 
