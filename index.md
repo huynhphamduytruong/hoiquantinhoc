@@ -25,7 +25,7 @@ Chào mừng bạn đã đến trang thông tin của nhóm [Hội quán tin h�
   * [Phan Quốc Văn](https://www.facebook.com/phanquocvan)
   * [Đông Phương](https://www.facebook.com/dongphuong2102)
   * [Châu Ngọc Hiệp](https://www.facebook.com/hiepchau96)
-* Về mảng kích hoạt Windows\/Office\:
+* Về mảng kích hoạt Windows/Office\:
   * [Tuấn Thành](https://www.facebook.com/tuanthanh1502)
   * [Anh Tuan Le](https://www.facebook.com/anhtuanle.ktc)
 
@@ -42,13 +42,13 @@ Thank you and have a good day!!
 ### A - Nội quy chung của nhóm
 
 * Trước khi viết bài, bạn cần bổ sung hashtag theo bảng [ở phía dưới](..#danh-sch-hashtag-trn-nhm), tuỳ vào nhu cầu và mục đích đăng mà bạn cần phải lựa chọn hashtag phù hợp nhằm giúp phân loại bài viết và cho mục đích tìm kiếm sau này.
-* Bài viết\/Bình luận phải rõ ràng, khuyến khích sử dụng Tiếng Việt có dấu, không được văng tục, chửi thề, gây chiến, sử dụng teencode/ngôn ngữ gây khó hiểu, v.v..
+* Bài viết/Bình luận phải rõ ràng, khuyến khích sử dụng Tiếng Việt có dấu, không được văng tục, chửi thề, gây chiến, sử dụng teencode/ngôn ngữ gây khó hiểu, v.v..
 * Để tránh trường hợp trùng lặp nội dung, khuyến khích bạn nên sử dụng chức năng tìm kiếm trên nhóm để tìm lại bài viết cũ/sử dụng công cụ tìm kiếm [Google](https://www.google.com/) trước khi đăng bài viết mới.
 
 ### B - Nội quy đăng bài
 
 * Nếu là bài viết chia sẻ từ nguồn trên Internet, xin vui lòng **GHI NGUỒN** của bài viết thay vì chỉ biết copy và paste.
-* Khi đăng bài viết nhờ hỗ trợ kích hoạt Windows/Office thì bạn phải đảm bảo rằng máy mình hiện đang có [TeamViewer](https://www.teamviewer.com/en/products/teamviewer/)\/[UltraViewer](https://ultraviewer.net/en/download.html). **KHÔNG ĐƯỢC** đăng ID và Password trực tiếp lên post của mình, chỉ được đăng khi có yêu cầu để tránh tình trạng bị lợi dụng truy cập trái phép nhằm mục đích xấu!
+* Khi đăng bài viết nhờ hỗ trợ kích hoạt Windows/Office thì bạn phải đảm bảo rằng máy mình hiện đang có [TeamViewer](https://www.teamviewer.com/en/products/teamviewer/)/[UltraViewer](https://ultraviewer.net/en/download.html). **KHÔNG ĐƯỢC** đăng ID và Password trực tiếp lên post của mình, chỉ được đăng khi có yêu cầu để tránh tình trạng bị lợi dụng truy cập trái phép nhằm mục đích xấu!
 * **KHÔNG** đăng bài viết quảng cáo (rao vặt, bán sim,...).
 * **KHÔNG** được sử dụng link rút gọn (ouo, adfly, link5s,...) hoặc liên kết giới thiệu (ref) trong bài viết với mục đích kiếm lợi nhuận từ nhóm. (trừ 1 số trường hợp, ví dụ như bạn đăng bài viết chia sẻ tool của chính bạn)
 * **KHÔNG** được yêu cầu các thành viên khác cung cấp email trong bình luận. Nếu thực sự cần thiết phải cần email của các thành viên thì vui lòng sử dụng [Google Forms](https://docs.google.com/forms).
