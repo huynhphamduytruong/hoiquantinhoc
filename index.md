@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+---
+PageTitle: Ok con dê :100:
+---
 
-You can use the [editor on GitHub](https://github.com/huynhphamduytruong/rules/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# [Hội quán tin học](https://fb.com/groups/hoiquantinhoc/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Chào mừng bạn đã đến trang thông tin của group [Hội quán tin học](https://fb.com/groups/hoiquantinhoc/)
 
-### Markdown
+## Thông tin group
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Group được lập ra với mục đích chia sẻ, giúp đỡ cho tất cả các thành viên, từ người không có/chưa có nhiều kiến thức tin học cho đến các "bà mẹ bỉm sữa, ông bố của gia đình" cần học hỏi và sử dụng tin học. (không tức nghĩa là các ông bố/bà mẹ muốn share gì lên group cũng đc à :), cũng phải tuân thủ nội quy đàng hoàng à nha!)
 
-```markdown
-Syntax highlighted code block
+## Nội quy
 
-# Header 1
-## Header 2
-### Header 3
+Đây là 1 số nội quy được đề ra bởi toàn bộ các thành viên trong ban quản trị. Mong các thành viên **chú ý đọc kỹ** và làm theo.
 
-- Bulleted
-- List
+### A - Nội quy group
 
-1. Numbered
-2. List
+1. A
+2. B
 
-**Bold** and _Italic_ and `Code` text
+### B - Nội quy đăng bài
 
-[Link](url) and ![Image](src)
-```
+1. A
+2. B
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Danh sách hashtag trên group
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huynhphamduytruong/rules/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Hashtag | Ý nghĩa
+------- | -------
+ **#hqtn_a** | a
+ **#hqtn_b** | b
+ **#hqtn_c** | c
+ **#hqtn_d** | d
+ **#hqtn_e** | e
