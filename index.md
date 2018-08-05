@@ -52,7 +52,7 @@ Thank you and have a good day!!
 * **KHÔNG** đăng bài viết quảng cáo (rao vặt, bán sim,...).
 * **KHÔNG** được sử dụng link rút gọn (ouo, adfly, link5s,...) hoặc liên kết giới thiệu (ref) trong bài viết với mục đích kiếm lợi nhuận từ nhóm. (trừ 1 số trường hợp, ví dụ như bạn đăng bài viết chia sẻ tool của chính bạn)
 * **KHÔNG** được yêu cầu các thành viên khác cung cấp email trong bình luận. Nếu thực sự cần thiết phải cần email của các thành viên thì vui lòng sử dụng [Google Forms](https://docs.google.com/forms).
-* **KHÔNG** được sử dụng "Chấm", "Hóng", ".",... trong tất cả bài viết vì nó **VÔ NGHĨA** lắm!! Nên sử dụng tính năng "Bật thông báo cho bài viết" hoặc "Lưu bài viết" để thay thế.
+* **KHÔNG** được spam hoặc sử dụng "Chấm", "Hóng", ".",... trong tất cả bài viết vì nó **VÔ NGHĨA** lắm!! Nên sử dụng tính năng "Bật thông báo cho bài viết" hoặc "Lưu bài viết" để thay thế.
 * **KHÔNG** được xoá bài viết sau khi được hỗ trợ xong. Hãy dùng tính năng **Tắt bình luận**
 
 ## Hình thức xử lý vi phạm
