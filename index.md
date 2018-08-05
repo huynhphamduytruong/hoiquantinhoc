@@ -49,7 +49,7 @@ Thank you and have a good day!!
 
 ### A - Nội quy chung của nhóm
 
-* Trước khi viết bài, bạn cần bổ sung hashtag theo bảng [ở phía dưới](#danh-sách-hashtag-trên-nhóm), tuỳ vào nhu cầu và mục đích đăng mà bạn cần phải lựa chọn hashtag phù hợp nhằm giúp phân loại bài viết và cho mục đích tìm kiếm sau này.
+* Trước khi viết bài, bạn cần nên bổ sung thêm #hashtag theo bảng [ở phía dưới](#danh-sách-hashtag-trên-nhóm), tuỳ vào nhu cầu và mục đích đăng mà bạn cần phải lựa chọn hashtag phù hợp nhằm giúp phân loại bài viết và cho mục đích tìm kiếm sau này.
 * Bài viết/Bình luận phải rõ ràng, khuyến khích sử dụng Tiếng Việt có dấu, không được văng tục, chửi thề, gây chiến, sử dụng teencode/ngôn ngữ gây khó hiểu, v.v..
 * **NGHIÊM CẤM** đăng những bài viết liên quan đến vấn đề tôn giáo, chính trị, chống phá Nhà nước, vi phạm pháp luật nước CHXHCN Việt Nam, các nội dung phản cảm, đi ngược lại với thuần phong mĩ tục của dân tộc Việt Nam.
 * Tôn trọng thành viên mình đang tương tác, vì đây là cộng đồng không giới hạn độ tuổi, cho nên sẽ có rất nhiều tầng lớp khác nhau tham gia, vì vậy rất dễ xảy ra hiểu nhầm dẫn đến đả kích cá nhân, gây chiến nội bộ, v.v..
