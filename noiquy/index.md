@@ -1,4 +1,6 @@
-# ![Nội quy](banner1.png)
+![Nội quy](banner1.png)
+
+# Nội quy
 
 Đây là 1 số nội quy được đề ra bởi toàn bộ các thành viên trong ban quản trị. Mặc dù nhóm với tiêu chí thoải mái, nhưng thiết nghĩ cũng nên có nội quy để có thể ngày càng cải thiện nhóm hơn, và đồng thời cũng tránh tiêu cực trong nhóm. Cho nên, mình mong các thành viên **chú ý đọc kỹ** và làm theo nhé :wink:.
 
