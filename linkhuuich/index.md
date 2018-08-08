@@ -20,6 +20,12 @@ Script Kích Hoạt Bản Quyền Số Windows 10 Vĩnh Viễn<br>(Thanks [Savio
 MPActPro by oOoHPDToOo | [![Download](smallDlBtn.png)](http://megaurl.in/MPActProv1000)
 HoTroGetCIDStep3 by oOoHPDToOo | [![Download](smallDlBtn.png)](https://huynhphamduytruong.github.io/HoTroGetCIDStep3)
 
+:arrow_forward: **Hướng dẫn tự activate máy tính Windows**
+
++ Hướng dẫn sử dụng MPAct Pro và HoTroGetCIDStep3 by oOoHPDToOo để kích hoạt Win 7 vĩnh viễn (Thanks [Nguyễn Minh Phương](https://www.facebook.com/minhphuong.0210)):
+
+    [![Go to this link](btnGo.png)](https://docs.google.com/document/d/1CLsWqGoZ0CivcH0yM6Q-nv08plUzdZaK7Jg64fUSKTE/)
+
 :arrow_forward: **Tổng hợp những phần mềm cần thiết sau khi cài lại máy (Thanks [Anh Tuan Le](https://www.facebook.com/anhtuanle.ktc))**
 
 + [![Go to this link](btnGo.png)](https://docs.google.com/document/d/1YUIHLQSXTscJcwtY8E2uidc8nnZuT3_7f4wqSElO3no/)
