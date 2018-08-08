@@ -21,14 +21,12 @@ Hình đẹp | Facebook | Hình đẹp | Facebook
 
 :zap: Moderators\:
 
-Hình đẹp | Facebook | Hình đẹp | Facebook
----------|----------|----------|---------
-[![Cai Việt Hoàng](https://graph.facebook.com/100003134678287/picture)](https://www.facebook.com/cvhoangpt) | [Cai Việt Hoàng](https://www.facebook.com/cvhoangpt) | [![Nguyễn Hoàng](https://graph.facebook.com/100025632130254/picture)](https://www.facebook.com/hotrowindow) | [Nguyễn Hoàng](https://www.facebook.com/hotrowindow)
-[![Vũ Long](https://graph.facebook.com/100013510368089/picture)](https://www.facebook.com/socbay66) | [Vũ Long](https://www.facebook.com/socbay66) | [![Nguyễn Minh Phương](https://graph.facebook.com/100003978645691/picture)](https://www.facebook.com/minhphuong.0210) | [Nguyễn Minh Phương](https://www.facebook.com/minhphuong.0210)
-[![Ashton Lee](https://graph.facebook.com/100017002208953/picture)](https://www.facebook.com/AshtonLee.IT) | [Ashton Lee](https://www.facebook.com/AshtonLee.IT) | [![Trần Nguyễn Gia Long](https://graph.facebook.com/100015318524559/picture)](https://www.facebook.com/vuatrieunguyen) | [Trần Nguyễn Gia Long](https://www.facebook.com/vuatrieunguyen)
-[![Đông Phương](https://graph.facebook.com/100003735621335/picture)](https://www.facebook.com/dongphuong2102) | [Đông Phương](https://www.facebook.com/dongphuong2102) | [![Biển Xanh](https://graph.facebook.com/100003922455895/picture)](https://www.facebook.com/bien.xanh.3158) | [Biển Xanh](https://www.facebook.com/bien.xanh.3158)
-[![Châu Ngọc Hiệp](https://graph.facebook.com/100002894748236/picture)](https://www.facebook.com/hiepchau96) | [Châu Ngọc Hiệp](https://www.facebook.com/hiepchau96) | [![Lê Duy Thanh](https://graph.facebook.com/100000499607136/picture)](https://www.facebook.com/duythanh.le.182) | [Lê Duy Thanh](https://www.facebook.com/duythanh.le.182)
-[![Anh Tuan Le](https://graph.facebook.com/100000136458267/picture)](https://www.facebook.com/anhtuanle.ktc) | [Anh Tuan Le](https://www.facebook.com/anhtuanle.ktc)
+Hình đẹp | Facebook | Hình đẹp | Facebook | Hình đẹp | Facebook
+---------|----------|----------|----------|----------|---------
+[![Cai Việt Hoàng](https://graph.facebook.com/100003134678287/picture)](https://www.facebook.com/cvhoangpt) | [Cai Việt Hoàng](https://www.facebook.com/cvhoangpt) | [![Nguyễn Hoàng](https://graph.facebook.com/100025632130254/picture)](https://www.facebook.com/hotrowindow) | [Nguyễn Hoàng](https://www.facebook.com/hotrowindow) | [![Vũ Long](https://graph.facebook.com/100013510368089/picture)](https://www.facebook.com/socbay66) | [Vũ Long](https://www.facebook.com/socbay66)
+[![Nguyễn Minh Phương](https://graph.facebook.com/100003978645691/picture)](https://www.facebook.com/minhphuong.0210) | [Nguyễn Minh Phương](https://www.facebook.com/minhphuong.0210) | [![Ashton Lee](https://graph.facebook.com/100017002208953/picture)](https://www.facebook.com/AshtonLee.IT) | [Ashton Lee](https://www.facebook.com/AshtonLee.IT) | [![Trần Nguyễn Gia Long](https://graph.facebook.com/100015318524559/picture)](https://www.facebook.com/vuatrieunguyen) | [Trần Nguyễn Gia Long](https://www.facebook.com/vuatrieunguyen)
+[![Đông Phương](https://graph.facebook.com/100003735621335/picture)](https://www.facebook.com/dongphuong2102) | [Đông Phương](https://www.facebook.com/dongphuong2102) | [![Biển Xanh](https://graph.facebook.com/100003922455895/picture)](https://www.facebook.com/bien.xanh.3158) | [Biển Xanh](https://www.facebook.com/bien.xanh.3158) | [![Châu Ngọc Hiệp](https://graph.facebook.com/100002894748236/picture)](https://www.facebook.com/hiepchau96) | [Châu Ngọc Hiệp](https://www.facebook.com/hiepchau96)
+[![Lê Duy Thanh](https://graph.facebook.com/100000499607136/picture)](https://www.facebook.com/duythanh.le.182) | [Lê Duy Thanh](https://www.facebook.com/duythanh.le.182) | [![Anh Tuan Le](https://graph.facebook.com/100000136458267/picture)](https://www.facebook.com/anhtuanle.ktc) | [Anh Tuan Le](https://www.facebook.com/anhtuanle.ktc)
 
 ---
 
