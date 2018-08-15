@@ -34,7 +34,7 @@ HoTroGetCIDStep3 by oOoHPDToOo | [![Download](smallDlBtn.png)](https://huynhpham
 
 + [![Go to this link](btnGo.png)](http://bit.do/fixloi)
 
-:arrow_forward: **Bộ thư viện hỗ trợ ứng dụng, games (thanks [Ashton Lee](https://www.facebook.com/AshtonLee.IT))**
+:arrow_forward: **Bộ thư viện hỗ trợ ứng dụng, games (thanks [Ashton Lee](https://www.facebook.com/AshtonLee.IT))** ([Link note gốc trên FB](https://www.facebook.com/notes/ashton-lee/b%E1%BB%99-th%C6%B0-vi%E1%BB%87n-h%E1%BB%97-tr%E1%BB%A3-ch%C6%A1i-game/207983256445080/))
 
 Thư viện | Link download
 ---------|------
