@@ -16,7 +16,6 @@ MSAct++ v2.0.4 by Ratiborus | [![Download](smallDlBtn.png)](https://www52.zippys
 MSActBackup Portable v1.2.3 by Ratiborus  | [![Download](smallDlBtn.png)](https://www63.zippyshare.com/v/MbbAQ3PH/file.html)
 hwidgen.mk3 (c) Dumpster Inc.<br>(Password giải nén: 3Fs44Rv#tZ4u3UOij656NgF____)| [![Download](smallDlBtn.png)](http://rgho.st/7dGN9RzSj)
 W10 Digital License Generation (C# version of HWID fork)<br>(Thanks @angelkyo, @s1ave77) | [![Download](smallDlBtn.png)](https://www.nsaneforums.com/topic/315047-w10-digital-license-generation-c-version-of-hwid-fork/)
-Script Kích Hoạt Bản Quyền Số Windows 10 Vĩnh Viễn<br>(Thanks [Savio](https://www.facebook.com/Saviopqt)) | [![Download](smallDlBtn.png)](https://docs.google.com/document/d/13HZElEJtq2atBcVbF3LyZGh--W1lM5uNaIMoQZcoreU)
 MPActPro by oOoHPDToOo | [![Download](smallDlBtn.png)](http://megaurl.in/MPActProv1000)
 HoTroGetCIDStep3 by oOoHPDToOo | [![Download](smallDlBtn.png)](https://huynhphamduytruong.github.io/HoTroGetCIDStep3)
 
