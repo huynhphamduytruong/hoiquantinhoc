@@ -6,7 +6,7 @@ Chào mừng bạn đã đến trang thông tin của nhóm [Hội quán tin h�
 
 ## Thông tin nhóm
 
-:small_orange_diamond: Nhóm được thành lập vào ngày 05/08/2018  
+:small_orange_diamond: Nhóm được thành lập vào ngày 04/08/2018  
 :small_orange_diamond: Mục đích của nhóm là chia sẻ, giúp đỡ cho tất cả các thành viên, từ người không có/chưa có nhiều kiến thức tin học cho đến các "bà mẹ bỉm sữa, ông bố của gia đình" cần học hỏi và sử dụng tin học. (không tức nghĩa là các ông bố/bà mẹ muốn share gì lên group cũng đc à :smirk:, cũng phải tuân thủ nội quy đàng hoàng à nha!), đồng thời cũng tạo ra 1 sân chơi để mọi người có thể giải trí với nhau sau thời gian làm việc mệt mỏi (nhưng vẫn nằm trong khuôn khổ của group nhé :wink:).  
 **:small_orange_diamond: Nếu có thắc mắc cần được giải đáp, vui lòng liên hệ các thành viên trong ban quản trị để được giải quyết trong thời gian sớm nhất.**
 
