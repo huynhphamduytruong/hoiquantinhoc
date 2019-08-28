@@ -16,9 +16,8 @@ MSAct++ v2.0.4 by Ratiborus | [![Download](smallDlBtn.png)](https://www52.zippys
 MSActBackup Portable v1.2.3 by Ratiborus  | [![Download](smallDlBtn.png)](https://www63.zippyshare.com/v/MbbAQ3PH/file.html)
 hwidgen.mk3 (c) Dumpster Inc.<br>(Password giải nén: 3Fs44Rv#tZ4u3UOij656NgF____)| [![Download](smallDlBtn.png)](http://rgho.st/7dGN9RzSj)
 W10 Digital License Generation (C# version of HWID fork)<br>(Thanks @angelkyo, @s1ave77) | [![Download](smallDlBtn.png)](https://www.nsaneforums.com/topic/315047-w10-digital-license-generation-c-version-of-hwid-fork/)
-MPActPro by oOoHPDToOo | [![Download](smallDlBtn.png)](http://megaurl.in/MPActProv1000)
-HoTroGetCIDStep3 by oOoHPDToOo | [![Download](smallDlBtn.png)](http://blog.truonghuynhit.com/posts/hotrogetcidstep3/)
-Windows 7 Activator by oOoHPDToOo | [![Download](smallDlBtn.png)](http://blog.truonghuynhit.com/posts/windows7activator/)
+MicroAct (trước đây là MPActPro) by TruongHuynhIT | [![Download](smallDlBtn.png)](https://truonghuynhit.com/my-tools/microact/)
+Windows 7 Activator by oOoHPDToOo | [![Download](smallDlBtn.png)](https://truonghuynhit.com/my-tools/w7act/)
 
 :arrow_forward: **Hướng dẫn tự activate máy tính Windows**
 
